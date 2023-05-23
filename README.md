@@ -12,7 +12,5 @@ Learning about Git and your propriets
 #### Log
 
 Serve para visualizar o histórico de todos os commits que foram feitos.
-
-## Como utilizar repositorios remotos
 * git push  
 * git pull
